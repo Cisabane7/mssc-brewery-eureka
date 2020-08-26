@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.github.sfg-beer-works</groupId>
 	<artifactId>mssc-brewery-eureka</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>mssc-brewery-eureka</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -61,7 +61,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/Cisabane7/mssc-brewery-eureka.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>mssc-brewery-eureka-0.0.2</tag>
   </scm>
 
 	<build>
